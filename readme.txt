@@ -1,4 +1,4 @@
-=== runcode by soncy ===
+=== Cool Tags ===
 Contributors: soncy 
 Tags: tag,tags,widget
 Requires at least: 2.7
