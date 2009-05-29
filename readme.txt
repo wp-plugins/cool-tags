@@ -24,7 +24,7 @@ Activate the plugin through the 'Plugins' menu in WordPress,and set different co
 
 == Screenshots ==
 
-1. Watch a demo here:  
+1. Watch a demo and report bugs here:  
 <http://www.eyike.com/html/y2009/cool-tags.html>.
 
 2.Screenshots
